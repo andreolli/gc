@@ -28,6 +28,7 @@ public class GCDeskPrincipal {
 
         // Chamar metodo de classe para controle de login
         // chamada....(usuario, senha)
+        // chamar form da aplicaçao
         
     }
 }
