@@ -4,6 +4,8 @@
  */
 package gcdesk;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author F�bio
