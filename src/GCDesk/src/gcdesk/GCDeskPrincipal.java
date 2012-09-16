@@ -6,7 +6,7 @@ package gcdesk;
 
 /**
  *
- * @author Fábio
+ * @author Fï¿½bio
  */
 public class GCDeskPrincipal {
 
@@ -21,7 +21,8 @@ public class GCDeskPrincipal {
         usuario = new String ();
         usuario = JOptionPane.showInputDialog("Digite o usuario:");
         senha = new String ();
-        senha = JOptionPane.showInputDialog("Digite o senha:");         JOptionPane.showMessageDialog(null, "Usuario: " + usuario);
+        senha = JOptionPane.showInputDialog("Digite o senha:");        
+        JOptionPane.showMessageDialog(null, "Usuario: " + usuario);
 
     }
 }
