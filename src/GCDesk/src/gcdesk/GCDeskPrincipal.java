@@ -26,5 +26,8 @@ public class GCDeskPrincipal {
         senha = JOptionPane.showInputDialog("Digite o senha:");        
         JOptionPane.showMessageDialog(null, "Usuario: " + usuario);
 
+        // Chamar metodo de classe para controle de login
+        // chamada....(usuario, senha)
+        
     }
 }
