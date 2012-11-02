@@ -10,7 +10,7 @@ public class CurriculoController {
 		return "curriculo/cadastro";
 	}
 	
-	
+	//comments
 	
 	
 
