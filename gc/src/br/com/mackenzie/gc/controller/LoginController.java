@@ -19,10 +19,14 @@ public class LoginController {
 	
 	@RequestMapping("efetuaLogin")
 	public String efetuaLogin(Usuario usuario,HttpSession session){
+		/*
 		if(new UsuarioDAO().existeUsuario(usuario)){
 			session.setAttribute("usuarioLogado",usuario);
 			return "menu";
 		}return "redirect:loginForm";
+		*/
+		return "menu";
+		
 	}
 
 }
