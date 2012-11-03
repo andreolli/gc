@@ -38,7 +38,7 @@
 		<div class="header-images">
 			<img src="/gc/css/images/slide-1.jpg" alt="Slide #1" width="250" height="154" />
 		</div>
-		
+	     <!-- comentario -->
 	</div>
 	<div class="header-bottom"></div>
 	
@@ -127,3 +127,4 @@
 </div>
 </body>
 </html>
+ 
